@@ -1,0 +1,5 @@
+$fristName = "Mujahidul Islam";
+    $lastName = "Siyam";
+//$result = $fristName
+
+    echo strlen("Yo bro");
