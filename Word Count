@@ -1,0 +1,6 @@
+    <?php 
+   $fristName = "Mujahidul Islam";
+    $lastName = "Siyam";
+
+    echo str_word_count($lastName);
+ ?>
