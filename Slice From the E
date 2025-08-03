@@ -1,0 +1,6 @@
+    <?php
+    //Slice From the End
+    $firstName = "Mujahidul Islam";
+    $lastName = "Siyam";
+    echo substr($firstName,-5,3);
+ ;?>
